@@ -29,14 +29,14 @@
 
 ## структура проекта
 hr-attrition-analysis/
-README.md
-requirements.txt
-hr_attrition_analysis.ipynb
-hr_attrition_analysis.png
-data/
-clean_hr_data.csv
-sql_queries/
-queries.sql
+    README.md
+    requirements.txt
+    hr_attrition_analysis.ipynb
+    hr_attrition_analysis.png
+    data/
+        clean_hr_data.csv
+    sql_queries/
+        queries.sql
 
 ## как запустить
 git clone https://github.com/yar1k14/hr-attrition-analysis.git
